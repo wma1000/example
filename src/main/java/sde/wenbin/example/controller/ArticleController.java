@@ -20,7 +20,7 @@ public class ArticleController {
     private ArticleService articleService;
 
     @GetMapping(value = "/articles", produces = MediaType.APPLICATION_JSON_VALUE)
-    public String getPageArticles(Model model, @PageableDefault(size = 3) @SortDefault(value = "rank", direction = Direction.DESC) Pageable pageable) {
+    public String getPageArticles(Model model, @PageableDefault(size = 4) @SortDefault(value = "score", direction = Direction.DESC) Pageable pageable) {
 
         Page<Article> pages = articleService.getPageArticles(pageable);
 

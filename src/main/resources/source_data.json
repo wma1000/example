@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Identifying student misconceptions of programming",
+    "authors": ["Lisa C. Kaczmarczyk", "Elizabeth R. Petrick"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=1734299&ftid=751583&dwn=1",
+    "keywords": ["Computing educators are often baffled by the misconceptions that their CS1 students hold"],
+    "score": 2010
+  },
+  {
+  "name": "Improving the CS1 experience with pair programming",
+  "authors": ["Nachiappan Nagappan", "Laurie Williams", "Kai Yang"],
+  "url": "https://dl.acm.org/ft_gateway.cfm?id=612006&ftid=1",
+  "keywords": ["Pair programming is a practice in which two programmers work collaboratively at one computer, on the same design, algorithm, or code."],
+  "score": 2003
+  },
+  {
+    "name": "Undergraduate women in computer science: experience, motivation and culture",
+    "authors": ["Allan Fisher", "Jane Margolis"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=268127&ftid=34869&dwn=1",
+    "keywords": ["recaps the goals and methods of the study, reports on their progress and preliminary conclusions"],
+    "score": 1997
+  },
+  {
+    "name": "A Multi-institutional Study of Peer Instruction in Introductory Computing",
+    "authors": ["Leo Porter", "Beth Simon", "Cynthia Lee"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=2844642&ftid=1680864&dwn=1",
+    "keywords": ["Pair programming is a practice in which two programmers work collaboratively at one computer, on the same design, algorithm, or code."],
+    "score": 2016
+  },
+  {
+    "name": "The introductory programming course in computer science: ten principles",
+    "authors": ["G. Michael Schneider"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=990598&ftid=260976&dwn=1",
+    "keywords": ["Schneider attempts to provide an in-depth, philosophical framework for the course called CS1"],
+    "score": 1978
+  },
+  {
+    "name": "Constructivism in computer science education",
+    "authors": ["Mordechai Ben-Ari"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=274308&ftid=35942&dwn=1",
+    "keywords": ["Constructivism has been extremely influential in science and mathematics education, but not in computer science education"],
+    "score": 1998
+  },
+  {
+    "name": "Using software testing to move students from trial-and-error to reflection-in-action",
+    "authors": ["Stephen H. Edwards", "Virginia Tech"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=971312&ftid=251805&dwn=1",
+    "keywords": ["Traditional programming assignments are usually assessed in a way that ignores the skills needed for reflection in action"],
+    "score": 2004
+  },
+  {
+    "name": "What should we teach in an introductory programming course",
+    "authors": ["David Gries"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=810447&ftid=78696&dwn=1",
+    "keywords": ["Gries argues that an introductory course (and its successor) in programming should be concerned with three aspects of programming"],
+    "score": 1974
+  },
+  {
+    "name": "Contributing to success in an introductory computer science course: a study of twelve factors",
+    "authors": ["Brenda Cantwell Wilson", "Sharon Shrock"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=364581&ftid=43484&dwn=1",
+    "keywords": ["This study was conducted to determine factors that promote success in an introductory college computer science course"],
+    "score": 2001
+  },
+  {
+    "name": "Teaching objects-first in introductory computer science",
+    "authors": ["Stephen Cooper", "Wanda Dann", "Randy Pausch"],
+    "url": "https://dl.acm.org/ft_gateway.cfm?id=611966&ftid=125104&dwn=1",
+    "keywords": ["n objects-first strategy for teaching introductory computer science courses is receiving increased attention from CS educators"],
+    "score": 2003
+  }
+]
